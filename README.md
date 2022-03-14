@@ -5,5 +5,4 @@ To build a webpage that can provide a more in-depth analysis of UFO sightings by
 
 ## Results 
 
-Home Page 
-![HomePage](https://myoctocat.com/assets/images/base-octocat.svg)
+
